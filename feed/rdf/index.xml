@@ -1,44 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	>
-
-<channel>
+<channel rdf:about="/">
 	<title>Laboratory</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sat, 20 Jul 2024 07:15:45 +0000</lastBuildDate>
-	<language>en-US</language>
+	<dc:date>2024-07-20T07:15:45Z	</dc:date>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="/what-is-stainless-steel-everything-you-need-to-know/"/>
+					<rdf:li rdf:resource="/4140-alloy-steel-a-comprehensive-guide-for-engineers/"/>
+					<rdf:li rdf:resource="/carbon-steel-vs-mild-steel-which-one-to-choose/"/>
+					<rdf:li rdf:resource="/alloy-steel-round-bar-a-comprehensive-buying-guide/"/>
+					<rdf:li rdf:resource="/a-comprehensive-guide-to-1045-yield-strength-in-engineering/"/>
+					<rdf:li rdf:resource="/types-of-alloy-steel-what-you-need-to-know-for-your-next-project/"/>
+					<rdf:li rdf:resource="/the-advantages-of-low-alloy-steel-material-in-construction/"/>
+					<rdf:li rdf:resource="/understanding-the-mechanical-properties-of-stainless-steel/"/>
+					<rdf:li rdf:resource="/step-by-step-guide-to-1045-steel-heat-treatment/"/>
+					<rdf:li rdf:resource="/understanding-carbon-steel-properties-a-comprehensive-guide/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="/what-is-stainless-steel-everything-you-need-to-know/">
+	<title>What Is Stainless Steel: Everything You Need to Know</title>
+	<link>/what-is-stainless-steel-everything-you-need-to-know/</link>
 
-<image>
-	<url>/wp-content/uploads/2024/03/cropped-liborui-32x32.jpg</url>
-	<title>Laboratory</title>
-	<link>/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	<item>
-		<title>What Is Stainless Steel: Everything You Need to Know</title>
-		<link>/what-is-stainless-steel-everything-you-need-to-know/</link>
-					<comments>/what-is-stainless-steel-everything-you-need-to-know/#respond</comments>
-		
-		<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
-		<pubDate>Sat, 20 Jul 2024 07:08:50 +0000</pubDate>
-				<category><![CDATA[Stainless Steel]]></category>
-		<guid isPermaLink="false">/?p=5323</guid>
+	<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
+	<dc:date>2024-07-20T07:08:50Z</dc:date>
+			<dc:subject><![CDATA[Stainless Steel]]></dc:subject>
 
-					<description><![CDATA[What is stainless steel? Stainless steel is a versatile and widely used material known for its corrosion resistance, durability, and aesthetic appeal.]]></description>
-										<content:encoded><![CDATA[
+			<description><![CDATA[What is stainless steel? Stainless steel is a versatile and widely used material known for its corrosion resistance, durability, and aesthetic appeal.]]></description>
+		<content:encoded><![CDATA[
 <h2 class="wp-block-heading" id="introduction"><a href="https://liboruimetal.com/" target="_blank" rel="noopener">Introduction</a></h2>
 
 
@@ -439,24 +442,18 @@
 
 <p>In the food industry, stainless steel is used for its hygiene, non-reactivity, and ease of cleaning. It is found in kitchen appliances, food processing equipment, storage tanks, and utensils, ensuring food safety and quality.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>/what-is-stainless-steel-everything-you-need-to-know/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>4140 Alloy Steel: A Comprehensive Guide for Engineers</title>
-		<link>/4140-alloy-steel-a-comprehensive-guide-for-engineers/</link>
-					<comments>/4140-alloy-steel-a-comprehensive-guide-for-engineers/#respond</comments>
-		
-		<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
-		<pubDate>Fri, 19 Jul 2024 06:56:34 +0000</pubDate>
-				<category><![CDATA[Alloy Steel]]></category>
-		<guid isPermaLink="false">/?p=5308</guid>
+	
+	</item>
+<item rdf:about="/4140-alloy-steel-a-comprehensive-guide-for-engineers/">
+	<title>4140 Alloy Steel: A Comprehensive Guide for Engineers</title>
+	<link>/4140-alloy-steel-a-comprehensive-guide-for-engineers/</link>
 
-					<description><![CDATA[4140 alloy steel is a versatile and widely used material in engineering and industrial applications.]]></description>
-										<content:encoded><![CDATA[
+	<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
+	<dc:date>2024-07-19T06:56:34Z</dc:date>
+			<dc:subject><![CDATA[Alloy Steel]]></dc:subject>
+
+			<description><![CDATA[4140 alloy steel is a versatile and widely used material in engineering and industrial applications.]]></description>
+		<content:encoded><![CDATA[
 <h2 class="wp-block-heading" id="introduction"><a href="/">Introduction</a></h2>
 
 
@@ -743,24 +740,18 @@
 
 <p>Common applications of 4140 alloy steel include automotive components, construction machinery, oil and gas equipment, and aerospace parts, where high strength and toughness are required.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>/4140-alloy-steel-a-comprehensive-guide-for-engineers/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Carbon Steel vs Mild Steel: Which One to Choose?</title>
-		<link>/carbon-steel-vs-mild-steel-which-one-to-choose/</link>
-					<comments>/carbon-steel-vs-mild-steel-which-one-to-choose/#respond</comments>
-		
-		<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
-		<pubDate>Thu, 18 Jul 2024 06:43:42 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=5304</guid>
+	
+	</item>
+<item rdf:about="/carbon-steel-vs-mild-steel-which-one-to-choose/">
+	<title>Carbon Steel vs Mild Steel: Which One to Choose?</title>
+	<link>/carbon-steel-vs-mild-steel-which-one-to-choose/</link>
 
-					<description><![CDATA[In this comprehensive guide, we will compare carbon steel vs mild steel, examining their properties, uses, benefits, and drawbacks.]]></description>
-										<content:encoded><![CDATA[
+	<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
+	<dc:date>2024-07-18T06:43:42Z</dc:date>
+			<dc:subject><![CDATA[Uncategorized]]></dc:subject>
+
+			<description><![CDATA[In this comprehensive guide, we will compare carbon steel vs mild steel, examining their properties, uses, benefits, and drawbacks.]]></description>
+		<content:encoded><![CDATA[
 <h2 class="wp-block-heading" id="introduction"><a href="/">Introduction</a></h2>
 
 
@@ -1075,24 +1066,18 @@
 
 <p>Yes, carbon steel is generally harder to weld due to its higher carbon content, which can lead to cracking and other welding challenges. Mild steel is easier to weld with standard welding methods.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>/carbon-steel-vs-mild-steel-which-one-to-choose/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Alloy Steel Round Bar: A Comprehensive Buying Guide</title>
-		<link>/alloy-steel-round-bar-a-comprehensive-buying-guide/</link>
-					<comments>/alloy-steel-round-bar-a-comprehensive-buying-guide/#respond</comments>
-		
-		<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
-		<pubDate>Wed, 17 Jul 2024 09:12:58 +0000</pubDate>
-				<category><![CDATA[Alloy Steel]]></category>
-		<guid isPermaLink="false">/?p=5299</guid>
+	
+	</item>
+<item rdf:about="/alloy-steel-round-bar-a-comprehensive-buying-guide/">
+	<title>Alloy Steel Round Bar: A Comprehensive Buying Guide</title>
+	<link>/alloy-steel-round-bar-a-comprehensive-buying-guide/</link>
 
-					<description><![CDATA[Alloy steel round bars are a fundamental component in various industries, known for their versatility, strength, and durability.]]></description>
-										<content:encoded><![CDATA[
+	<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
+	<dc:date>2024-07-17T09:12:58Z</dc:date>
+			<dc:subject><![CDATA[Alloy Steel]]></dc:subject>
+
+			<description><![CDATA[Alloy steel round bars are a fundamental component in various industries, known for their versatility, strength, and durability.]]></description>
+		<content:encoded><![CDATA[
 <h2 class="wp-block-heading" id="introduction"><a href="/">Introduction</a></h2>
 
 
@@ -1341,24 +1326,18 @@
 
 <p>Yes, alloy steel bars can be heat-treated to further enhance their mechanical properties. Heat treatment processes such as annealing, quenching, and tempering can improve the material&#8217;s hardness, strength, and toughness, making it suitable for specific applications.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>/alloy-steel-round-bar-a-comprehensive-buying-guide/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>A Comprehensive Guide to 1045 Yield Strength in Engineering</title>
-		<link>/a-comprehensive-guide-to-1045-yield-strength-in-engineering/</link>
-					<comments>/a-comprehensive-guide-to-1045-yield-strength-in-engineering/#respond</comments>
-		
-		<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
-		<pubDate>Tue, 16 Jul 2024 08:25:53 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=5297</guid>
+	
+	</item>
+<item rdf:about="/a-comprehensive-guide-to-1045-yield-strength-in-engineering/">
+	<title>A Comprehensive Guide to 1045 Yield Strength in Engineering</title>
+	<link>/a-comprehensive-guide-to-1045-yield-strength-in-engineering/</link>
 
-					<description><![CDATA[Understanding the yield strength of materials is crucial for engineers when selecting the appropriate material for specific applications. One such material that is widely used in various engineering fields is 1045 steel. In this comprehensive guide, we will delve into the properties, applications, and advantages of 1045 yield strength, focusing on how it can be effectively utilized in engineering projects. By the end of this guide, you will have a clear understanding of why 1045 steel is a popular choice and how to leverage its properties for your engineering needs.]]></description>
-										<content:encoded><![CDATA[
+	<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
+	<dc:date>2024-07-16T08:25:53Z</dc:date>
+			<dc:subject><![CDATA[News]]></dc:subject>
+
+			<description><![CDATA[Understanding the yield strength of materials is crucial for engineers when selecting the appropriate material for specific applications. One such material that is widely used in various engineering fields is 1045 steel. In this comprehensive guide, we will delve into the properties, applications, and advantages of 1045 yield strength, focusing on how it can be effectively utilized in engineering projects. By the end of this guide, you will have a clear understanding of why 1045 steel is a popular choice and how to leverage its properties for your engineering needs.]]></description>
+		<content:encoded><![CDATA[
 <p>Understanding the yield strength of materials is crucial for engineers when selecting the appropriate material for specific applications. One such material that is widely used in various engineering fields is 1045 steel. In this comprehensive guide, we will delve into the properties, applications, and advantages of 1045 yield strength, focusing on how it can be effectively utilized in engineering projects. By the end of this guide, you will have a clear understanding of why 1045 steel is a popular choice and how to leverage its properties for your engineering needs.</p>
 
 
@@ -1553,24 +1532,18 @@
 
 <p>Yes, 1045 steel offers good machinability, allowing it to be easily cut, shaped, and formed into various components without compromising its strength.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>/a-comprehensive-guide-to-1045-yield-strength-in-engineering/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Types of Alloy Steel: What You Need to Know for Your Next Project</title>
-		<link>/types-of-alloy-steel-what-you-need-to-know-for-your-next-project/</link>
-					<comments>/types-of-alloy-steel-what-you-need-to-know-for-your-next-project/#respond</comments>
-		
-		<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
-		<pubDate>Mon, 15 Jul 2024 06:06:10 +0000</pubDate>
-				<category><![CDATA[Alloy Steel]]></category>
-		<guid isPermaLink="false">/?p=5293</guid>
+	
+	</item>
+<item rdf:about="/types-of-alloy-steel-what-you-need-to-know-for-your-next-project/">
+	<title>Types of Alloy Steel: What You Need to Know for Your Next Project</title>
+	<link>/types-of-alloy-steel-what-you-need-to-know-for-your-next-project/</link>
 
-					<description><![CDATA[This article delves into the different types of alloy steel, exploring their characteristics, applications, and benefits.]]></description>
-										<content:encoded><![CDATA[
+	<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
+	<dc:date>2024-07-15T06:06:10Z</dc:date>
+			<dc:subject><![CDATA[Alloy Steel]]></dc:subject>
+
+			<description><![CDATA[This article delves into the different types of alloy steel, exploring their characteristics, applications, and benefits.]]></description>
+		<content:encoded><![CDATA[
 <h2 class="wp-block-heading" id="introduction"><a href="/">Introduction</a></h2>
 
 
@@ -1923,24 +1896,18 @@
 
 <p>Consider the required mechanical properties, environmental conditions, and cost. Consulting with a materials engineer can also help you make the best choice.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>/types-of-alloy-steel-what-you-need-to-know-for-your-next-project/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>The Advantages of Low Alloy Steel Material in Construction</title>
-		<link>/the-advantages-of-low-alloy-steel-material-in-construction/</link>
-					<comments>/the-advantages-of-low-alloy-steel-material-in-construction/#respond</comments>
-		
-		<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
-		<pubDate>Fri, 12 Jul 2024 07:57:30 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=5289</guid>
+	
+	</item>
+<item rdf:about="/the-advantages-of-low-alloy-steel-material-in-construction/">
+	<title>The Advantages of Low Alloy Steel Material in Construction</title>
+	<link>/the-advantages-of-low-alloy-steel-material-in-construction/</link>
 
-					<description><![CDATA[This blog will explore the various advantages of using low alloy steel material in construction, highlighting its properties, applications, and benefits over other materials.]]></description>
-										<content:encoded><![CDATA[
+	<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
+	<dc:date>2024-07-12T07:57:30Z</dc:date>
+			<dc:subject><![CDATA[News]]></dc:subject>
+
+			<description><![CDATA[This blog will explore the various advantages of using low alloy steel material in construction, highlighting its properties, applications, and benefits over other materials.]]></description>
+		<content:encoded><![CDATA[
 <h2 class="wp-block-heading" id="introduction"><a href="/">Introduction</a></h2>
 
 
@@ -2209,24 +2176,18 @@
 
 <p>To ensure the quality of low alloy steel material, work with reputable suppliers and manufacturers who adhere to industry standards and specifications. Conduct thorough inspections and testing of the material before and during construction to verify its properties and performance.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>/the-advantages-of-low-alloy-steel-material-in-construction/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Understanding the Mechanical Properties of Stainless Steel</title>
-		<link>/understanding-the-mechanical-properties-of-stainless-steel/</link>
-					<comments>/understanding-the-mechanical-properties-of-stainless-steel/#respond</comments>
-		
-		<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
-		<pubDate>Thu, 11 Jul 2024 06:45:55 +0000</pubDate>
-				<category><![CDATA[Stainless Steel]]></category>
-		<guid isPermaLink="false">/?p=5285</guid>
+	
+	</item>
+<item rdf:about="/understanding-the-mechanical-properties-of-stainless-steel/">
+	<title>Understanding the Mechanical Properties of Stainless Steel</title>
+	<link>/understanding-the-mechanical-properties-of-stainless-steel/</link>
 
-					<description><![CDATA[This comprehensive guide will explore the key mechanical properties of stainless steel, their significance, and how they influence the material's performance in different applications.]]></description>
-										<content:encoded><![CDATA[
+	<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
+	<dc:date>2024-07-11T06:45:55Z</dc:date>
+			<dc:subject><![CDATA[Stainless Steel]]></dc:subject>
+
+			<description><![CDATA[This comprehensive guide will explore the key mechanical properties of stainless steel, their significance, and how they influence the material's performance in different applications.]]></description>
+		<content:encoded><![CDATA[
 <h2 class="wp-block-heading" id="introduction"><a href="/">Introduction</a></h2>
 
 
@@ -2465,24 +2426,18 @@
 
 <p>When selecting a stainless steel grade, consider factors such as mechanical properties (tensile strength, yield strength, hardness, ductility), corrosion resistance, ease of fabrication, and the specific application requirements.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>/understanding-the-mechanical-properties-of-stainless-steel/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Step-by-Step Guide to 1045 Steel Heat Treatment</title>
-		<link>/step-by-step-guide-to-1045-steel-heat-treatment/</link>
-					<comments>/step-by-step-guide-to-1045-steel-heat-treatment/#respond</comments>
-		
-		<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
-		<pubDate>Thu, 11 Jul 2024 06:08:09 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=5283</guid>
+	
+	</item>
+<item rdf:about="/step-by-step-guide-to-1045-steel-heat-treatment/">
+	<title>Step-by-Step Guide to 1045 Steel Heat Treatment</title>
+	<link>/step-by-step-guide-to-1045-steel-heat-treatment/</link>
 
-					<description><![CDATA[In the world of metallurgy and engineering, 1045 steel stands out as a versatile and widely used medium-carbon steel. Its combination of strength, toughness, and workability makes it a popular choice for various applications, including the manufacturing of Excavator Mini parts. Understanding the heat treatment process of 1045 steel is crucial for achieving the desired mechanical properties and enhancing its performance in demanding environments. This step-by-step guide will take you through the essential processes and considerations for effectively heat treating 1045 steel.]]></description>
-										<content:encoded><![CDATA[
+	<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
+	<dc:date>2024-07-11T06:08:09Z</dc:date>
+			<dc:subject><![CDATA[News]]></dc:subject>
+
+			<description><![CDATA[In the world of metallurgy and engineering, 1045 steel stands out as a versatile and widely used medium-carbon steel. Its combination of strength, toughness, and workability makes it a popular choice for various applications, including the manufacturing of Excavator Mini parts. Understanding the heat treatment process of 1045 steel is crucial for achieving the desired mechanical properties and enhancing its performance in demanding environments. This step-by-step guide will take you through the essential processes and considerations for effectively heat treating 1045 steel.]]></description>
+		<content:encoded><![CDATA[
 <h2 class="wp-block-heading" id="introduction">Introduction</h2>
 
 
@@ -2701,24 +2656,18 @@
 
 <p>Normalizing involves heating the steel above its critical range and air cooling, refining the grain structure. Annealing involves heating below the critical range and furnace cooling, relieving internal stresses and improving ductility.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>/step-by-step-guide-to-1045-steel-heat-treatment/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Understanding Carbon Steel Properties: A Comprehensive Guide</title>
-		<link>/understanding-carbon-steel-properties-a-comprehensive-guide/</link>
-					<comments>/understanding-carbon-steel-properties-a-comprehensive-guide/#respond</comments>
-		
-		<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
-		<pubDate>Wed, 10 Jul 2024 03:36:14 +0000</pubDate>
-				<category><![CDATA[Carbon Steel]]></category>
-		<guid isPermaLink="false">/?p=5279</guid>
+	
+	</item>
+<item rdf:about="/understanding-carbon-steel-properties-a-comprehensive-guide/">
+	<title>Understanding Carbon Steel Properties: A Comprehensive Guide</title>
+	<link>/understanding-carbon-steel-properties-a-comprehensive-guide/</link>
 
-					<description><![CDATA[This comprehensive guide will delve into the various aspects of carbon steel properties, including its composition, types, mechanical characteristics, and applications.]]></description>
-										<content:encoded><![CDATA[
+	<dc:creator><![CDATA[zhonggutyre@gmail.com]]></dc:creator>
+	<dc:date>2024-07-10T03:36:14Z</dc:date>
+			<dc:subject><![CDATA[Carbon Steel]]></dc:subject>
+
+			<description><![CDATA[This comprehensive guide will delve into the various aspects of carbon steel properties, including its composition, types, mechanical characteristics, and applications.]]></description>
+		<content:encoded><![CDATA[
 <h2 class="wp-block-heading" id="introduction"><a href="/">Introduction</a></h2>
 
 
@@ -3037,11 +2986,6 @@
 
 <p>The key mechanical properties of carbon steel include strength, hardness, ductility, toughness, elasticity, fatigue resistance, and wear resistance. These properties are influenced by factors such as carbon content, heat treatment, and alloying elements.</p>
 ]]></content:encoded>
-					
-					<wfw:commentRss>/understanding-carbon-steel-properties-a-comprehensive-guide/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
-</rss>
+	
+	</item>
+</rdf:RDF>
