@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/how-4140-steel-composition-affects-its-properties/</loc>
+		<lastmod>2024-07-23T06:21:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/41400-1-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/rechuli-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mild-steel-vs-carbon-steel-which-is-best-for-your-project/</loc>
+		<lastmod>2024-07-23T00:21:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/1018-1-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/1020-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-is-stainless-steel-everything-you-need-to-know/</loc>
+		<lastmod>2024-07-20T07:15:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/304-2-300x300.jpg-1-1-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/14-300x300.png-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/4140-alloy-steel-a-comprehensive-guide-for-engineers/</loc>
 		<lastmod>2024-07-19T06:56:36+00:00</lastmod>
 		<image:image>
