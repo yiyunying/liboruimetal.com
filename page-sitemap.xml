@@ -306,6 +306,10 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/my-account/</loc>
+		<lastmod>2024-03-26T09:55:36+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/shop/</loc>
 		<lastmod>2024-03-26T09:55:36+00:00</lastmod>
 	</url>
@@ -315,10 +319,6 @@
 	</url>
 	<url>
 		<loc>/checkout/</loc>
-		<lastmod>2024-03-26T09:55:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/my-account/</loc>
 		<lastmod>2024-03-26T09:55:36+00:00</lastmod>
 	</url>
 	<url>
