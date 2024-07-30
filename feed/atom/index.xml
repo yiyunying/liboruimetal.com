@@ -6,7 +6,7 @@
 	<title type="text">Laboratory</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-07-30T08:02:03Z</updated>
+	<updated>2024-07-30T08:15:15Z</updated>
 
 	<link rel="alternate" type="text/html" href="/" />
 	<id>/feed/atom/</id>
@@ -24,7 +24,7 @@
 		<link rel="alternate" type="text/html" href="/what-is-alloy-steel-and-why-is-it-important/" />
 
 		<id>/?p=5361</id>
-		<updated>2024-07-30T08:02:03Z</updated>
+		<updated>2024-07-30T08:15:15Z</updated>
 		<published>2024-07-30T08:02:01Z</published>
 		<category scheme="/" term="Alloy Steel" />
 		<summary type="html"><![CDATA[This comprehensive guide aims to answer the question, "What is alloy steel?" and explain why it is important across different industries.]]></summary>
@@ -272,7 +272,9 @@
 
 
 
-<ol class="wp-block-list"></ol>
+<ol class="wp-block-list">
+<li></li>
+</ol>
 
 
 
