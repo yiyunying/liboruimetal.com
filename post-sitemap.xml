@@ -1,46 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/characteristics-of-alloy-steel-a-comprehensive-guide/</loc>
-		<lastmod>2024-07-29T07:30:25+00:00</lastmod>
+		<loc>/what-is-4140-steel-properties-and-uses-explained/</loc>
+		<lastmod>2024-07-31T07:46:45+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/31CrMov9-1-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/316-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/4130-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/817M40-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/06/1060.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/top-alloy-steel-material-properties-you-should-know/</loc>
-		<lastmod>2024-07-26T07:08:46+00:00</lastmod>
+		<loc>/top-uses-of-4340-alloy-steel-in-manufacturing/</loc>
+		<lastmod>2024-07-31T06:34:14+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/31CrMov9-1-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/4340-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/817M40-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/what-is-carbon-steel-a-comprehensive-overview/</loc>
-		<lastmod>2024-07-25T07:08:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/1020-1-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/C45-1-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/qu.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/how-4140-yield-strength-affects-mechanical-performance/</loc>
-		<lastmod>2024-07-24T06:58:13+00:00</lastmod>
+		<loc>/understanding-martensitic-stainless-steels-properties-uses-and-benefits/</loc>
+		<lastmod>2024-07-31T02:55:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/41400-1-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/22.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/serv.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/15-300x300-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/top-benefits-of-4140-steel-heat-treatment/</loc>
+		<lastmod>2024-07-30T08:59:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/410-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/1060.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
