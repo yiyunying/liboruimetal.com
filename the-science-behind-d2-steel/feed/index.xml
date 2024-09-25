@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: The Science Behind D2 Steel	</title>
-	<atom:link href="/the-science-behind-d2-steel/feed/" rel="self" type="application/rss+xml" />
-	<link>/the-science-behind-d2-steel/</link>
+	<atom:link href="https://liboruimetal.com/the-science-behind-d2-steel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://liboruimetal.com/the-science-behind-d2-steel/</link>
 	<description></description>
 	<lastBuildDate>Thu, 23 May 2024 02:41:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 </channel>
 </rss>
